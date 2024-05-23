@@ -1,0 +1,3 @@
+https://medium.com/data-science-at-microsoft/the-path-to-a-golden-dataset-or-how-to-evaluate-your-rag-045e23d1f13f
+
+conda activate appliedaipf
